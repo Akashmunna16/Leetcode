@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Akashmunna16/Leetcode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/Akashmunna16/Leetcode/tree/master/0492-construct-the-rectangle) |
 ## Binary Search
 |  |
 | ------- |
