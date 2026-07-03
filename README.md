@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Akashmunna16/Leetcode/tree/master/0441-arranging-coins) |
+## Database
+|  |
+| ------- |
+| [3436-find-valid-emails](https://github.com/Akashmunna16/Leetcode/tree/master/3436-find-valid-emails) |
 <!---LeetCode Topics End-->
