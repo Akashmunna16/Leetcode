@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Akashmunna16/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0455-assign-cookies](https://github.com/Akashmunna16/Leetcode/tree/master/0455-assign-cookies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Akashmunna16/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1089-duplicate-zeros](https://github.com/Akashmunna16/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Akashmunna16/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0441-arranging-coins](https://github.com/Akashmunna16/Leetcode/tree/master/0441-arranging-coins) |
 ## Database
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Akashmunna16/Leetcode/tree/master/0455-assign-cookies) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Akashmunna16/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
