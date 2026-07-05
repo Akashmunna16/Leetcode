@@ -82,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Akashmunna16/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Akashmunna16/Leetcode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Akashmunna16/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
