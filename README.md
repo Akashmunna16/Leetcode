@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Akashmunna16/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akashmunna16/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Akashmunna16/Leetcode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/Akashmunna16/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Akashmunna16/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akashmunna16/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0455-assign-cookies](https://github.com/Akashmunna16/Leetcode/tree/master/0455-assign-cookies) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Akashmunna16/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Akashmunna16/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Akashmunna16/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akashmunna16/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Akashmunna16/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Akashmunna16/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akashmunna16/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Depth-First Search
