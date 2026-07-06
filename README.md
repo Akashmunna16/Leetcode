@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Akashmunna16/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Akashmunna16/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akashmunna16/Leetcode/tree/master/0018-4sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akashmunna16/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akashmunna16/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Akashmunna16/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Akashmunna16/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akashmunna16/Leetcode/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/Akashmunna16/Leetcode/tree/master/0455-assign-cookies) |
 | [0917-reverse-only-letters](https://github.com/Akashmunna16/Leetcode/tree/master/0917-reverse-only-letters) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Akashmunna16/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Akashmunna16/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akashmunna16/Leetcode/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/Akashmunna16/Leetcode/tree/master/0455-assign-cookies) |
 ## Matrix
