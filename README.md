@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Akashmunna16/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Akashmunna16/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Akashmunna16/Leetcode/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/Akashmunna16/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akashmunna16/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0228-summary-ranges](https://github.com/Akashmunna16/Leetcode/tree/master/0228-summary-ranges) |
@@ -175,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Akashmunna16/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Akashmunna16/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
