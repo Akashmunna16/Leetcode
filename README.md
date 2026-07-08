@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Akashmunna16/Leetcode/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/Akashmunna16/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/Akashmunna16/Leetcode/tree/master/0929-unique-email-addresses) |
+| [0941-valid-mountain-array](https://github.com/Akashmunna16/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/Akashmunna16/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
