@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Akashmunna16/Leetcode/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/Akashmunna16/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Akashmunna16/Leetcode/tree/master/0925-long-pressed-name) |
+| [0929-unique-email-addresses](https://github.com/Akashmunna16/Leetcode/tree/master/0929-unique-email-addresses) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akashmunna16/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Array
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Akashmunna16/Leetcode/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/Akashmunna16/Leetcode/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/Akashmunna16/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0929-unique-email-addresses](https://github.com/Akashmunna16/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1089-duplicate-zeros](https://github.com/Akashmunna16/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Akashmunna16/Leetcode/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/Akashmunna16/Leetcode/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/Akashmunna16/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0929-unique-email-addresses](https://github.com/Akashmunna16/Leetcode/tree/master/0929-unique-email-addresses) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akashmunna16/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
