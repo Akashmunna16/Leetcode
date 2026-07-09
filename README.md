@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Akashmunna16/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Akashmunna16/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/Akashmunna16/Leetcode/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/Akashmunna16/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akashmunna16/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Array
 |  |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akashmunna16/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0047-permutations-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Akashmunna16/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
