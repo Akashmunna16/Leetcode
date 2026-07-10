@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Akashmunna16/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0748-shortest-completing-word](https://github.com/Akashmunna16/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Akashmunna16/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Akashmunna16/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Akashmunna16/Leetcode/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/Akashmunna16/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Akashmunna16/Leetcode/tree/master/0925-long-pressed-name) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Akashmunna16/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Akashmunna16/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Akashmunna16/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/Akashmunna16/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Akashmunna16/Leetcode/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/Akashmunna16/Leetcode/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/Akashmunna16/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Akashmunna16/Leetcode/tree/master/0645-set-mismatch) |
 | [0748-shortest-completing-word](https://github.com/Akashmunna16/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Akashmunna16/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Akashmunna16/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Akashmunna16/Leetcode/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/Akashmunna16/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/Akashmunna16/Leetcode/tree/master/0929-unique-email-addresses) |
