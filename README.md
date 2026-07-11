@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Akashmunna16/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Akashmunna16/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Akashmunna16/Leetcode/tree/master/0819-most-common-word) |
+| [0824-goat-latin](https://github.com/Akashmunna16/Leetcode/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/Akashmunna16/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Akashmunna16/Leetcode/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/Akashmunna16/Leetcode/tree/master/0929-unique-email-addresses) |
