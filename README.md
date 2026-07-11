@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Akashmunna16/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Akashmunna16/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Akashmunna16/Leetcode/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/Akashmunna16/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/Akashmunna16/Leetcode/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/Akashmunna16/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Akashmunna16/Leetcode/tree/master/0925-long-pressed-name) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Akashmunna16/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Akashmunna16/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Akashmunna16/Leetcode/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/Akashmunna16/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/Akashmunna16/Leetcode/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/Akashmunna16/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/Akashmunna16/Leetcode/tree/master/0929-unique-email-addresses) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akashmunna16/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Akashmunna16/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/Akashmunna16/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/Akashmunna16/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Akashmunna16/Leetcode/tree/master/0925-long-pressed-name) |
 | [1089-duplicate-zeros](https://github.com/Akashmunna16/Leetcode/tree/master/1089-duplicate-zeros) |
