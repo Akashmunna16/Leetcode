@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0511-game-play-analysis-i](https://github.com/Akashmunna16/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [1873-calculate-special-bonus](https://github.com/Akashmunna16/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1965-employees-with-missing-information](https://github.com/Akashmunna16/Leetcode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Akashmunna16/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
