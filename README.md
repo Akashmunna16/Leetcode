@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/Akashmunna16/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/Akashmunna16/Leetcode/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/Akashmunna16/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1331-rank-transform-of-an-array](https://github.com/Akashmunna16/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Akashmunna16/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Akashmunna16/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/Akashmunna16/Leetcode/tree/master/1002-find-common-characters) |
+| [1331-rank-transform-of-an-array](https://github.com/Akashmunna16/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akashmunna16/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Akashmunna16/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Akashmunna16/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/Akashmunna16/Leetcode/tree/master/0888-fair-candy-swap) |
+| [1331-rank-transform-of-an-array](https://github.com/Akashmunna16/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
 |  |
 | ------- |
