@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akashmunna16/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0459-repeated-substring-pattern](https://github.com/Akashmunna16/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Akashmunna16/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Akashmunna16/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akashmunna16/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Akashmunna16/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Akashmunna16/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akashmunna16/Leetcode/tree/master/0018-4sum) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akashmunna16/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0338-counting-bits](https://github.com/Akashmunna16/Leetcode/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
