@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akashmunna16/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Akashmunna16/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0459-repeated-substring-pattern](https://github.com/Akashmunna16/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Akashmunna16/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Akashmunna16/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
