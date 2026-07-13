@@ -274,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Akashmunna16/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Akashmunna16/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
