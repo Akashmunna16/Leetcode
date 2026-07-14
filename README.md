@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Akashmunna16/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akashmunna16/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akashmunna16/Leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Akashmunna16/Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/Akashmunna16/Leetcode/tree/master/0079-word-search) |
 | [0459-repeated-substring-pattern](https://github.com/Akashmunna16/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Akashmunna16/Leetcode/tree/master/0520-detect-capital) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Akashmunna16/Leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Akashmunna16/Leetcode/tree/master/0043-multiply-strings) |
 | [0342-power-of-four](https://github.com/Akashmunna16/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Akashmunna16/Leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Akashmunna16/Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Akashmunna16/Leetcode/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/Akashmunna16/Leetcode/tree/master/0657-robot-return-to-origin) |
 ## String Matching
 |  |
