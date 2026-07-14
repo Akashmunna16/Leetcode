@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Akashmunna16/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Akashmunna16/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akashmunna16/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Akashmunna16/Leetcode/tree/master/0022-generate-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/Akashmunna16/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Akashmunna16/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Akashmunna16/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akashmunna16/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Akashmunna16/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Akashmunna16/Leetcode/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/Akashmunna16/Leetcode/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akashmunna16/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Akashmunna16/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Akashmunna16/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akashmunna16/Leetcode/tree/master/0046-permutations) |
