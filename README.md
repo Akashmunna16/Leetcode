@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akashmunna16/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akashmunna16/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Akashmunna16/Leetcode/tree/master/0043-multiply-strings) |
+| [0071-simplify-path](https://github.com/Akashmunna16/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Akashmunna16/Leetcode/tree/master/0079-word-search) |
 | [0459-repeated-substring-pattern](https://github.com/Akashmunna16/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Akashmunna16/Leetcode/tree/master/0520-detect-capital) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Akashmunna16/Leetcode/tree/master/0071-simplify-path) |
 | [1021-remove-outermost-parentheses](https://github.com/Akashmunna16/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
