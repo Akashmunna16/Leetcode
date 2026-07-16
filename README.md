@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Akashmunna16/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Akashmunna16/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Akashmunna16/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/Akashmunna16/Leetcode/tree/master/0055-jump-game) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akashmunna16/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Akashmunna16/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Akashmunna16/Leetcode/tree/master/0561-array-partition) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Akashmunna16/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Akashmunna16/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Akashmunna16/Leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akashmunna16/Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Akashmunna16/Leetcode/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/Akashmunna16/Leetcode/tree/master/0338-counting-bits) |
