@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Akashmunna16/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Akashmunna16/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Akashmunna16/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Akashmunna16/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Akashmunna16/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Akashmunna16/Leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Akashmunna16/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Akashmunna16/Leetcode/tree/master/0048-rotate-image) |
 | [0342-power-of-four](https://github.com/Akashmunna16/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Akashmunna16/Leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Akashmunna16/Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Akashmunna16/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Akashmunna16/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Akashmunna16/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akashmunna16/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Akashmunna16/Leetcode/tree/master/0079-word-search) |
