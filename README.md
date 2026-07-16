@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Akashmunna16/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Akashmunna16/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Akashmunna16/Leetcode/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Akashmunna16/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akashmunna16/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akashmunna16/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Akashmunna16/Leetcode/tree/master/0079-word-search) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Akashmunna16/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Akashmunna16/Leetcode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Akashmunna16/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akashmunna16/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akashmunna16/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Akashmunna16/Leetcode/tree/master/0079-word-search) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Akashmunna16/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akashmunna16/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Akashmunna16/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Akashmunna16/Leetcode/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/Akashmunna16/Leetcode/tree/master/0338-counting-bits) |
 ## Recursion
