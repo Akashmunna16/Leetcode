@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Akashmunna16/Leetcode/tree/master/0176-second-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/Akashmunna16/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0610-triangle-judgement](https://github.com/Akashmunna16/Leetcode/tree/master/0610-triangle-judgement) |
 | [1075-project-employees-i](https://github.com/Akashmunna16/Leetcode/tree/master/1075-project-employees-i) |
