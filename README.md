@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Akashmunna16/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Akashmunna16/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Akashmunna16/Leetcode/tree/master/0079-word-search) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Akashmunna16/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0459-repeated-substring-pattern](https://github.com/Akashmunna16/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Akashmunna16/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Akashmunna16/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akashmunna16/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Akashmunna16/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Akashmunna16/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Akashmunna16/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akashmunna16/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Akashmunna16/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Akashmunna16/Leetcode/tree/master/0645-set-mismatch) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Akashmunna16/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Akashmunna16/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akashmunna16/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Akashmunna16/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/Akashmunna16/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Akashmunna16/Leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Akashmunna16/Leetcode/tree/master/0492-construct-the-rectangle) |
