@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Akashmunna16/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Akashmunna16/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Akashmunna16/Leetcode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Akashmunna16/Leetcode/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/Akashmunna16/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Akashmunna16/Leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Akashmunna16/Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Akashmunna16/Leetcode/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/Akashmunna16/Leetcode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/Akashmunna16/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Akashmunna16/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Akashmunna16/Leetcode/tree/master/0338-counting-bits) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Akashmunna16/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Akashmunna16/Leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Akashmunna16/Leetcode/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
