@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Akashmunna16/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akashmunna16/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akashmunna16/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Akashmunna16/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Akashmunna16/Leetcode/tree/master/0079-word-search) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akashmunna16/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/Akashmunna16/Leetcode/tree/master/0228-summary-ranges) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Akashmunna16/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Akashmunna16/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Akashmunna16/Leetcode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/Akashmunna16/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Akashmunna16/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akashmunna16/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Akashmunna16/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Akashmunna16/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Akashmunna16/Leetcode/tree/master/0089-gray-code) |
 ## Stack
