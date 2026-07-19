@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Akashmunna16/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akashmunna16/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Akashmunna16/Leetcode/tree/master/0031-next-permutation) |
+| [0148-sort-list](https://github.com/Akashmunna16/Leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/Akashmunna16/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akashmunna16/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Akashmunna16/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Akashmunna16/Leetcode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/Akashmunna16/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Akashmunna16/Leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/Akashmunna16/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Akashmunna16/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Akashmunna16/Leetcode/tree/master/0561-array-partition) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akashmunna16/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akashmunna16/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akashmunna16/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Akashmunna16/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Akashmunna16/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Akashmunna16/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -404,4 +407,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Akashmunna16/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Akashmunna16/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Akashmunna16/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
