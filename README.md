@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Akashmunna16/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Akashmunna16/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akashmunna16/Leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Akashmunna16/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Akashmunna16/Leetcode/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/Akashmunna16/Leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/Akashmunna16/Leetcode/tree/master/0455-assign-cookies) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Akashmunna16/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0147-insertion-sort-list](https://github.com/Akashmunna16/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Akashmunna16/Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
