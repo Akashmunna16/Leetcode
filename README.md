@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Akashmunna16/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akashmunna16/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Akashmunna16/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Akashmunna16/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Akashmunna16/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akashmunna16/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Akashmunna16/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/Akashmunna16/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/Akashmunna16/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Akashmunna16/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akashmunna16/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
